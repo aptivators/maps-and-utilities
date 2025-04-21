@@ -2,11 +2,11 @@
 
 A collection of GeoJSON and TopoJSON resources and utilities for map-based data visualizations.
 
-## Where to find these maps
+## Where to find original maps
 
-https://geodata.bts.gov/search?q=congressional
-https://geodata.bts.gov/search?q=counties
-https://geodata.bts.gov/search?q=states
+- https://geodata.bts.gov/search?q=congressional
+- https://geodata.bts.gov/search?q=counties
+- https://geodata.bts.gov/search?q=states
 
 ## What is GeoJSON?
 
